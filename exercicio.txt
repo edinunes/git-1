@@ -1,0 +1,13 @@
+
+1 – Como clonar um repositório?
+R - Git clone https://github.com/reinaldofp/git.git
+
+2 – Como atualizar um repositório local?
+R - git add *
+
+3 – Como enviar uma atualização do repositório local para o Origin?
+R - git push
+
+4 – Como criar uma nova Branch?
+R - git checkout -b novoramo
+
